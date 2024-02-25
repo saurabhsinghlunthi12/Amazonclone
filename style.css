@@ -190,6 +190,7 @@
                 height: 500px;
                 background-image: url('background.jpg');
                 background-size: cover;
+                
                 /* background: linear-gradient(#e66465, #9198e5); */
                 /* mask-image: linear-gradient(); */
                 display: flex;
@@ -211,10 +212,11 @@
             .more-options{
                 width: 98%;
                 height: 400px;
-                background-color: #cccccc;
+                /* background-color: #cccccc; */
                 padding-left: 25px;
                 position: relative;
                 bottom: 6rem;
+
 
                 
             }
