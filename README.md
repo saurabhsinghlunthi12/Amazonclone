@@ -1,1 +1,1 @@
-1. Created Navbar and set background image.
+1. Created Navbar and set background image, using HTML and CSS
