@@ -2,6 +2,7 @@
                 margin: 0;
                 padding: 0;
                 box-sizing: border-box;
+                font-family: Arial, Helvetica, sans-serif;
                 
             }
             body{
@@ -345,3 +346,79 @@
                 width: 160px;
                 height: 190px;
             }
+            
+            .media-section{
+                width: 98%;
+                height: 400px;
+                /* padding-left: 25px; */
+                display: flex;
+                flex-wrap: wrap;
+                gap: 15px;
+                margin-left: 1.9rem;
+                position:relative;
+                bottom: 3rem;
+                
+                
+            }
+            .prime-section{
+                width: 50%;
+                height: 100%;
+                
+
+            }
+
+            .prime-section img{
+                width: 100%;
+                height: 100%;
+            }
+            .mobile-accessories{
+                width: 25%;
+                height: 100%;
+                background-color: white;
+                padding: 22px 10px;
+                
+               
+                
+            }
+            .accesories-images{
+                
+                display: flex;
+                
+                gap: 15px;
+                padding: 15px;
+                
+            }
+
+            .accesories-images img{
+                width: 100%;
+                height: 42%;
+            }
+
+
+            .headphones{
+                width: 22%;
+                height: 100%;
+                padding: 15px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                /* align-items: center; */
+                gap: 15px;
+                background-color: white;
+            }
+            .headphones img{
+                width: 100%;
+                height: 250px;
+            }
+            .accesories-link{
+                margin-top: 19px;
+                
+            }
+            img:hover{
+                cursor: pointer;
+            }
+            a{
+                text-decoration: none;
+            }
+
+
